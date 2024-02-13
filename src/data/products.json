@@ -1,0 +1,114 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "title": "PlayStation 5",
+      "description": "La consola de próxima generación de Sony con gráficos impresionantes y un rendimiento ultra rápido.",
+      "code": "PS5-001",
+      "price": 499.99,
+      "status": "Disponible",
+      "stock": 50,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.pexels.com/photos/13189272/pexels-photo-13189272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Xbox Series X",
+      "description": "La consola más potente de Microsoft con una amplia variedad de juegos y características de vanguardia.",
+      "code": "XBX-001",
+      "price": 549.99,
+      "status": "Disponible",
+      "stock": 40,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.pexels.com/photos/16776031/pexels-photo-16776031/free-photo-of-a-black-xbox-one-x-console-next-to-a-black-controller.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Nintendo Switch",
+      "description": "Una consola versátil que te permite jugar en casa o llevar tus juegos contigo dondequiera que vayas.",
+      "code": "NSW-001",
+      "price": 299.99,
+      "status": "Disponible",
+      "stock": 60,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "PlayStation 4 Pro",
+      "description": "Una versión mejorada de la consola PlayStation 4 con soporte para resolución 4K y HDR.",
+      "code": "PS4P-001",
+      "price": 399.99,
+      "status": "Disponible",
+      "stock": 30,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.pexels.com/photos/3945670/pexels-photo-3945670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Xbox One S",
+      "description": "Una consola Xbox One más delgada con soporte para contenido en 4K y HDR.",
+      "code": "XBO-S-001",
+      "price": 299.99,
+      "status": "Disponible",
+      "stock": 20,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.pexels.com/photos/12718988/pexels-photo-12718988.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "title": "Nintendo Switch Lite",
+      "description": "Una versión compacta y ligera de la Nintendo Switch, ideal para jugar en movimiento.",
+      "code": "NSW-LT-001",
+      "price": 199.99,
+      "status": "Disponible",
+      "stock": 70,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.pexels.com/photos/6034015/pexels-photo-6034015.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "title": "PlayStation 3",
+      "description": "La icónica consola de Sony que introdujo el juego en línea y los gráficos de alta definición.",
+      "code": "PS3-001",
+      "price": 199.99,
+      "status": "No disponible",
+      "stock": 0,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.unsplash.com/photo-1526510096283-b0b3b6cac327?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "title": "Xbox 360",
+      "description": "Una consola revolucionaria de Microsoft que popularizó los juegos en línea y la interacción social.",
+      "code": "X360-001",
+      "price": 149.99,
+      "status": "No disponible",
+      "stock": 0,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://media.istockphoto.com/id/157725107/es/foto/microsoft-xbox-360-consola-de-juegos-con-kinect.jpg?s=2048x2048&w=is&k=20&c=cvsIwX-inZDJP12eOMPEOWAdnPIUkOc5N29HDyluaww="
+    },
+    {
+      "id": 9,
+      "title": "Nintendo Wii",
+      "description": "Una consola innovadora que introdujo el control de movimiento y una experiencia de juego única.",
+      "code": "WII-001",
+      "price": 99.99,
+      "status": "No disponible",
+      "stock": 0,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://images.unsplash.com/photo-1687525713106-bb13483f39d5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "title": "Sega Genesis Mini",
+      "description": "Una réplica miniatura de la clásica consola Sega Genesis cargada con juegos retro.",
+      "code": "SEG-MINI-001",
+      "price": 79.99,
+      "status": "Disponible",
+      "stock": 15,
+      "category": "Consolas de videojuegos",
+      "thumbnail": "https://media.istockphoto.com/id/458120661/es/foto/aislado-sega-mega-drive-consola-de-juegos.jpg?s=2048x2048&w=is&k=20&c=6xTycSqanT3tZMpAHZiw89D0NfNPmYEZnC_wYo1w0yU="
+    }
+  ]
+}
